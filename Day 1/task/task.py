@@ -19,8 +19,6 @@
 #glass1 = glass3
 
 
-
-
 #Day 1 Final Project
 
 print("Welcome to Band Name Generator.\n")
